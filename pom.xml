@@ -25,6 +25,6 @@
     
   </dependencies>
   <build>
-    <finalName>Bomb</finalName>
+    <finalName>ROOT</finalName>
   </build>
 </project>
